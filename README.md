@@ -5,8 +5,8 @@ Fetch Data from SQL Database with JSON Data
 
 <key>NSAppTransportSecurity</key>
 <dict>
-	<key>NSAllowsArbitraryLoads</key>
-	<true/>
+<key>NSAllowsArbitraryLoads</key>
+<true/>
 </dict>
 
 //End
