@@ -1,5 +1,5 @@
 # SwiftDataFetching
-Sending Data to SQL Database in Swift with POST Method
+Fetch Data from SQL Database with JSON Data
 
 
 
